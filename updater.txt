@@ -1,13 +1,11 @@
 {
   "tkkofficial_update": [
     {
- "version":"5.330.1",
+ "version":"5.331.0",
  "title":"Update Tersedia",
- "description":"TKK VIP GRAB MOD recommends that you
-update to the latest version 5.330.1 You
-can keep online the app while
-downloading the update.",
-"download":"https://drive.google.com/APK BISA DI UPLOAD DI GOOGLE DRIVE"
+ "description":"TKK VIP GRAB MOD silahkan klik update now untuk update mod terbaru versi 5.331.0
+jangan tutup aplikasi grab selama download berlangsung, ikuti petunjuk lalu klik instal.",
+"download":"https://drive.google.com/file/d/14cRBGWkwBih9GdazDxQ3Nx9E673elk7r/view?usp=drivesdk"
 }
   ]
 }
